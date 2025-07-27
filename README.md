@@ -1,4 +1,4 @@
-# Project Title: FairFight: Transparent Blockchain Battle Engine
+# Project Title: FairFight: Transparent Blockchain Battle Engine 
 
 ## Project Description
 
