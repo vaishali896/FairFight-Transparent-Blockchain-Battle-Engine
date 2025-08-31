@@ -22,4 +22,3 @@ To ensure trustless, tamper-proof PVP battles across Web3 games, with public res
 0x8b67629a7CBa11Dac69047066A8a608E63Dd2ddf
 ![alt text](image.png)
 
-
