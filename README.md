@@ -1,4 +1,4 @@
-ha ha# Project Title: FairFight: Transparent Blockchain Battle Engine 
+# Project Title: FairFight: Transparent Blockchain Battle Engine 
 
 ## Project Description
 FairFight is a decentralized battle engine that allows two players to stake funds and engage in a verifiable on-chain duel. An admin or oracle determines the outcome, and the winner claims the pooled stake.
